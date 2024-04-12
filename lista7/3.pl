@@ -1,0 +1,1 @@
+firstPair([X,X]).

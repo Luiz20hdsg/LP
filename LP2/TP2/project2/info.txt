@@ -1,0 +1,5 @@
+**Lembrete**
+
+1- ml-yacc PlcParser.yacc
+2- ml-lex PclLexer.lex
+3- run testParser.sml
